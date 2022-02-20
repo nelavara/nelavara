@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+// youtube video code
 bool test_palindrome (string testForPalindrome);
 
 int main ()

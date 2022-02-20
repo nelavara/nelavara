@@ -1,0 +1,3 @@
+C:/Users/deept/CLionProjects/nelavara/Palindrome/cmake-build-debug/CMakeFiles/Palindrome.dir
+C:/Users/deept/CLionProjects/nelavara/Palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/deept/CLionProjects/nelavara/Palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
